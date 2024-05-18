@@ -1,0 +1,11 @@
+2024-05-18 11:46:39,943.v2_listen_for_messages.INFO ==================================================
+2024-05-18 11:46:39,943.v2_listen_for_messages.INFO Today is 2024-05-18 at 11:46 AM
+2024-05-18 11:46:39,945.v2_listen_for_messages.INFO Running on: nt Windows 10
+2024-05-18 11:46:39,945.v2_listen_for_messages.INFO Python version:  3.9.15
+2024-05-18 11:46:39,945.v2_listen_for_messages.INFO Python path: C:\Users\krh52\Anaconda\ds-venv\streaming-03-rabbitmq\.venv
+2024-05-18 11:46:39,945.v2_listen_for_messages.INFO Working dir: C:\Users\krh52\Anaconda\ds-venv\streaming-03-rabbitmq
+2024-05-18 11:46:39,945.v2_listen_for_messages.INFO ==================================================
+2024-05-18 11:46:39,962.v2_listen_for_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
+2024-05-18 11:46:39,962.v2_listen_for_messages.INFO Received: Hello World!
+2024-05-18 11:46:47,537.v2_listen_for_messages.INFO Received: Hello World!
+2024-05-18 11:49:39,974.v2_listen_for_messages.INFO Received: a different message

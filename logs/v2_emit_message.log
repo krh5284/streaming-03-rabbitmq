@@ -1,0 +1,8 @@
+2024-05-18 11:49:39,955.v2_emit_message.INFO ==================================================
+2024-05-18 11:49:39,956.v2_emit_message.INFO Today is 2024-05-18 at 11:49 AM
+2024-05-18 11:49:39,956.v2_emit_message.INFO Running on: nt Windows 10
+2024-05-18 11:49:39,956.v2_emit_message.INFO Python version:  3.9.15
+2024-05-18 11:49:39,956.v2_emit_message.INFO Python path: C:\Users\krh52\Anaconda\ds-venv\streaming-03-rabbitmq\.venv
+2024-05-18 11:49:39,958.v2_emit_message.INFO Working dir: C:\Users\krh52\Anaconda\ds-venv\streaming-03-rabbitmq
+2024-05-18 11:49:39,958.v2_emit_message.INFO ==================================================
+2024-05-18 11:49:39,973.v2_emit_message.INFO  [x] Sent a different message
