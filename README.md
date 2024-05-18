@@ -136,7 +136,7 @@ Did you notice you had to change the message in TWO places?
 Now, to send a new message, you'll only make ONE change.
 Updating and improving code is called 'refactoring'. 
 Use your skills to keep coding enjoyable. 
-![alt text](https://github.com/krh5284/streaming-03-rabbitmq/blob//image.jpg?raw=true)
+![alt text](https://github.com/krh5284/streaming-03-rabbitmq/blob/main/p3.png?raw=true)
 
 ## Version 2
 
